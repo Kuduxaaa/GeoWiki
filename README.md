@@ -13,4 +13,7 @@ $ pyhton3 geowiki.py
 ```
 
 ## Screeenshot
-![Screenshot](https://i.imgur.com/QiMPWYA.png)
+![Screenshot](https://i.imgur.com/dDMlesI.png)
+
+### გისურვებთ წარმატებებს ❤
+## © Kuduxaaa
