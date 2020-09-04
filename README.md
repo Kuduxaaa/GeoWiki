@@ -7,9 +7,9 @@
 ```bash
 $ git clone https://github.com/Kuduxaaa/GeoWiki
 $ cd GeoWiki
-$ chmod +x geowiki.py
+$ chmod +x main.py
 $ pip3 install -r requirements.txt
-$ pyhton3 geowiki.py
+$ pyhton3 main.py
 ```
 
 ## Screeenshot
