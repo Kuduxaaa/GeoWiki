@@ -1,0 +1,4 @@
+playsound
+wikipedia
+requests
+wget
