@@ -16,4 +16,3 @@ $ pyhton3 main.py
 ![Screenshot](https://i.imgur.com/dDMlesI.png)
 
 ### გისურვებთ წარმატებებს ❤
-## © Kuduxaaa
